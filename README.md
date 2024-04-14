@@ -1,6 +1,6 @@
 # Python Flask SQLite
 
-A simple flask application from the <a html="https://flask.palletsprojects.com/en/3.0.x/tutorial/" target="_blank">documentation</a>.
+A simple flask application from the [I'm an inline-style link](https://www.google.com)
 
 ## How to run?
 * To be continue...
